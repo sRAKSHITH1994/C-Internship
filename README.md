@@ -1,3 +1,4 @@
+Week 1:
 The Student Management System is a console-based application developed in C++ that helps manage student records efficiently. The system uses file handling to store data permanently and provides a menu-driven interface for easy interaction.
 
 ## Features
